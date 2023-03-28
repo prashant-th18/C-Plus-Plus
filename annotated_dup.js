@@ -21,6 +21,9 @@ var annotated_dup =
       [ "sparse_table", null, [
         [ "Sparse_table", "da/d37/structdata__structures_1_1sparse__table_1_1_sparse__table.html", "da/d37/structdata__structures_1_1sparse__table_1_1_sparse__table" ]
       ] ],
+      [ "stack_using_queue", null, [
+        [ "Stack", "db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack.html", "db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack" ]
+      ] ],
       [ "tree_234", null, [
         [ "Node", "dd/d40/classdata__structures_1_1tree__234_1_1_node.html", "dd/d40/classdata__structures_1_1tree__234_1_1_node" ],
         [ "Tree234", "d3/d95/classdata__structures_1_1tree__234_1_1_tree234.html", "d3/d95/classdata__structures_1_1tree__234_1_1_tree234" ]
@@ -28,14 +31,24 @@ var annotated_dup =
       [ "trie_using_hashmap", null, [
         [ "Trie", "d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html", "d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie" ]
       ] ],
+      [ "Bitset", "d9/dae/classdata__structures_1_1_bitset.html", "d9/dae/classdata__structures_1_1_bitset" ],
+      [ "BloomFilter", "dc/dd4/classdata__structures_1_1_bloom_filter.html", "dc/dd4/classdata__structures_1_1_bloom_filter" ],
       [ "Node", "d9/d49/structdata__structures_1_1_node.html", "d9/d49/structdata__structures_1_1_node" ],
       [ "SkipList", "d4/d90/classdata__structures_1_1_skip_list.html", "d4/d90/classdata__structures_1_1_skip_list" ],
       [ "trie", "d0/d3e/classdata__structures_1_1trie.html", "d0/d3e/classdata__structures_1_1trie" ]
+    ] ],
+    [ "divide_and_conquer", "dd/dba/namespacedivide__and__conquer.html", [
+      [ "strassens_multiplication", null, [
+        [ "Matrix", "dc/d13/classdivide__and__conquer_1_1strassens__multiplication_1_1_matrix.html", "dc/d13/classdivide__and__conquer_1_1strassens__multiplication_1_1_matrix" ]
+      ] ]
     ] ],
     [ "double_hashing", "d0/d65/namespacedouble__hashing.html", [
       [ "Entry", "d9/dde/structdouble__hashing_1_1_entry.html", "d9/dde/structdouble__hashing_1_1_entry" ]
     ] ],
     [ "geometry", "d5/d5f/namespacegeometry.html", [
+      [ "grahamscan", null, [
+        [ "Point", "d7/d48/structgeometry_1_1grahamscan_1_1_point.html", null ]
+      ] ],
       [ "jarvis", null, [
         [ "Convexhull", "d4/dde/classgeometry_1_1jarvis_1_1_convexhull.html", "d4/dde/classgeometry_1_1jarvis_1_1_convexhull" ],
         [ "Point", "d9/d5a/structgeometry_1_1jarvis_1_1_point.html", null ]
@@ -58,6 +71,9 @@ var annotated_dup =
         [ "AyStarSearch", "da/d02/classmachine__learning_1_1aystar__search_1_1_ay_star_search.html", "da/d02/classmachine__learning_1_1aystar__search_1_1_ay_star_search" ],
         [ "EightPuzzle", "dd/d9c/classmachine__learning_1_1aystar__search_1_1_eight_puzzle.html", "dd/d9c/classmachine__learning_1_1aystar__search_1_1_eight_puzzle" ]
       ] ],
+      [ "k_nearest_neighbors", null, [
+        [ "Knn", "da/d94/classmachine__learning_1_1k__nearest__neighbors_1_1_knn.html", "da/d94/classmachine__learning_1_1k__nearest__neighbors_1_1_knn" ]
+      ] ],
       [ "neural_network", null, [
         [ "layers", null, [
           [ "DenseLayer", "dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html", "dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer" ]
@@ -69,11 +85,20 @@ var annotated_dup =
     [ "math", "dd/d47/namespacemath.html", [
       [ "ncr_modulo_p", null, [
         [ "NCRModuloP", "d6/dc1/classmath_1_1ncr__modulo__p_1_1_n_c_r_modulo_p.html", "d6/dc1/classmath_1_1ncr__modulo__p_1_1_n_c_r_modulo_p" ]
-      ] ]
+      ] ],
+      [ "Point", "de/d4f/structmath_1_1_point.html", null ]
     ] ],
     [ "operations_on_datastructures", "da/d6d/namespaceoperations__on__datastructures.html", [
+      [ "circular_linked_list", null, [
+        [ "CircularLinkedList", "d8/d7c/classoperations__on__datastructures_1_1circular__linked__list_1_1_circular_linked_list.html", "d8/d7c/classoperations__on__datastructures_1_1circular__linked__list_1_1_circular_linked_list" ],
+        [ "Node", "da/d16/structoperations__on__datastructures_1_1circular__linked__list_1_1_node.html", "da/d16/structoperations__on__datastructures_1_1circular__linked__list_1_1_node" ]
+      ] ],
       [ "inorder_traversal_of_bst", null, [
         [ "Node", "d5/db5/classoperations__on__datastructures_1_1inorder__traversal__of__bst_1_1_node.html", "d5/db5/classoperations__on__datastructures_1_1inorder__traversal__of__bst_1_1_node" ]
+      ] ],
+      [ "reverse_binary_tree", null, [
+        [ "BinaryTree", "de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html", "de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree" ],
+        [ "Node", "d8/dfd/structoperations__on__datastructures_1_1reverse__binary__tree_1_1_node.html", "d8/dfd/structoperations__on__datastructures_1_1reverse__binary__tree_1_1_node" ]
       ] ],
       [ "trie_operations", null, [
         [ "Tnode", "d0/d5f/classoperations__on__datastructures_1_1trie__operations_1_1_tnode.html", "d0/d5f/classoperations__on__datastructures_1_1trie__operations_1_1_tnode" ]
@@ -89,6 +114,18 @@ var annotated_dup =
       ] ],
       [ "postfix_expression", null, [
         [ "Stack", "d5/d8a/classothers_1_1postfix__expression_1_1_stack.html", "d5/d8a/classothers_1_1postfix__expression_1_1_stack" ]
+      ] ],
+      [ "recursive_tree_traversals", null, [
+        [ "BT", "dd/de1/classothers_1_1recursive__tree__traversals_1_1_b_t.html", "dd/de1/classothers_1_1recursive__tree__traversals_1_1_b_t" ],
+        [ "Node", "d9/df7/structothers_1_1recursive__tree__traversals_1_1_node.html", "d9/df7/structothers_1_1recursive__tree__traversals_1_1_node" ]
+      ] ]
+    ] ],
+    [ "probability", "d4/ded/namespaceprobability.html", [
+      [ "geometric_dist", null, [
+        [ "geometric_distribution", "da/d19/classprobability_1_1geometric__dist_1_1geometric__distribution.html", "da/d19/classprobability_1_1geometric__dist_1_1geometric__distribution" ]
+      ] ],
+      [ "windowed_median", null, [
+        [ "WindowedMedian", "df/d34/classprobability_1_1windowed__median_1_1_windowed_median.html", "df/d34/classprobability_1_1windowed__median_1_1_windowed_median" ]
       ] ]
     ] ],
     [ "quadratic_probing", "d4/dd2/namespacequadratic__probing.html", [
@@ -123,10 +160,14 @@ var annotated_dup =
     [ "Btree", "d9/d90/struct_btree.html", null ],
     [ "cll", "d5/d15/classcll.html", null ],
     [ "compare", "d1/db3/structcompare.html", null ],
+    [ "Compare", "de/d4a/class_compare.html", "de/d4a/class_compare" ],
     [ "Complex", "da/d5a/class_complex.html", "da/d5a/class_complex" ],
     [ "CycleCheck", "d3/dbb/class_cycle_check.html", "d3/dbb/class_cycle_check" ],
     [ "double_linked_list", "d9/dee/classdouble__linked__list.html", null ],
+    [ "dsu", "dd/d1f/classdsu.html", "dd/d1f/classdsu" ],
+    [ "EasterYearMonthDay", "d1/df6/class_easter_year_month_day.html", "d1/df6/class_easter_year_month_day" ],
     [ "Edge", "d7/d77/class_edge.html", "d7/d77/class_edge" ],
+    [ "FCFS", "dd/dca/class_f_c_f_s.html", "dd/dca/class_f_c_f_s" ],
     [ "FenwickTree", "dd/d91/class_fenwick_tree.html", "dd/d91/class_fenwick_tree" ],
     [ "Graph", "da/d9a/class_graph.html", "da/d9a/class_graph" ],
     [ "hash_chain", "dd/d1c/classhash__chain.html", "dd/d1c/classhash__chain" ],
@@ -134,11 +175,12 @@ var annotated_dup =
     [ "large_number", "db/d82/classlarge__number.html", "db/d82/classlarge__number" ],
     [ "linkedlist", "d0/dff/structlinkedlist.html", null ],
     [ "list", "d8/d10/structlist.html", "d8/d10/structlist" ],
+    [ "ListNode", "d7/da4/struct_list_node.html", "d7/da4/struct_list_node" ],
     [ "MinHeap", "d2/d05/class_min_heap.html", "d2/d05/class_min_heap" ],
     [ "MinHeapNode", "d5/d29/struct_min_heap_node.html", null ],
     [ "mst", "d1/d77/structmst.html", null ],
+    [ "node", "d5/da1/structnode.html", null ],
     [ "Node", "db/d8b/struct_node.html", null ],
-    [ "node", "d5/da1/structnode.html", "d5/da1/structnode" ],
     [ "Point", "d8/dc8/struct_point.html", "d8/dc8/struct_point" ],
     [ "query", "dd/d1b/structquery.html", null ],
     [ "Queue", "dc/db5/struct_queue.html", null ],
